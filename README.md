@@ -13,5 +13,7 @@ Skills Used:
 - Data blending and connecting multiple data sources like Products, sales and profits data.
 - Utilizing parameters to allow users to interactively change segmentation criteria
 - Designing an interactive dashboard with filters and actions to drill down into specific segments.
+- 
+![Dashboard 2](https://github.com/Himanshi-Mishra/Tableau-Projects/assets/130461431/98b48c9e-0263-44c2-83df-0e785956c301)
 
 **Dashboard Link**: https://public.tableau.com/app/profile/himanshi.mishra2705/viz/SuperstoreSalesDashboard_16855062303940/Dashboard2?publish=yes
